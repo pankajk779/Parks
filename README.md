@@ -2,7 +2,7 @@
 Hi,
 here is my project that i made during my course on udemy.com.
 
-In this app I-
+In this app I -
 * Used JSON and API provide by GoogleMaps, nps.gov(national parks service).
 * Used recycled view and view pager.
 * ViewModel to pass data.
