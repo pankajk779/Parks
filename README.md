@@ -1,4 +1,19 @@
 # Parks
+Hi,
+here is my project that i made during my course on udemy.com.
+
+In this app I-
+* Used JSON and API provide by GoogleMaps, nps.gov(national parks service).
+* Used recycled view and view pager.
+* ViewModel to pass data.
+* used bottom navigation view.
+
+Here are some screenshots of app.
+
+
+
+
+
 
 ![Screenshot_20210622-091057](https://user-images.githubusercontent.com/12524252/122860303-1e4fa780-d33b-11eb-87ca-ba2f3d17388f.png)
 
